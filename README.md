@@ -1,6 +1,6 @@
 # EleventyOne
 
-Phil's first port of call when starting another project using Eleventy.
+First port of call when starting another project using Eleventy.
 
 This project scaffold includes:
 
