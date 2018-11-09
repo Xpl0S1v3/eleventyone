@@ -1,5 +1,5 @@
 ---
-title: EleventyOne
+title: Xpl0S1v3
 subtitle: A project scaffold for getting building with Eleventy quickly.
 layout: layouts/base.njk
 ---
